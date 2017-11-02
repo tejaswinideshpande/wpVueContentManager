@@ -1,0 +1,1 @@
+export const WPAdmin = 'http://localhost/test/wp-admin/'
