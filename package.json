@@ -1,8 +1,8 @@
 {
-  "name": "wp-content-manager",
-  "description": "Single Page Application to manage WordPress Blog Articles",
+  "name": "wp-vue-content-manager",
+  "description": "Single Page Application to manage un-published Blog Articles on WordPress",
   "version": "1.0.0",
-  "author": "Tejaswini",
+  "author": "Tejaswini Deshpande",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
