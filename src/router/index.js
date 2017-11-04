@@ -1,9 +1,9 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Drafts from './Drafts.vue'
-import Pending from './Pending.vue'
-import Scheduled from './Scheduled.vue'
-import Login from './Login.vue'
+import Drafts from './../components/Drafts.vue'
+import Pending from './../components/Pending.vue'
+import Scheduled from './../components/Scheduled.vue'
+import Login from './../components/Login.vue'
 
 Vue.use(Router)
 
